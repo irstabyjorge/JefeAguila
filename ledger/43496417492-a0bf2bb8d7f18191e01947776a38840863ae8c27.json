@@ -1,0 +1,72 @@
+{
+  "commit": "a0bf2bb8d7f18191e01947776a38840863ae8c27",
+  "commits": [
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:53:26-08:00",
+      "sha": "a0bf2bb8d7f18191e01947776a38840863ae8c27",
+      "subject": "Add additive-only PETS AEGIS IP Shield coverage charter"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:01:12-08:00",
+      "sha": "c2d7239421dc586fb597100e1217ca8c959d3c1b",
+      "subject": "Install AEGIS GitHub IP SHIELD provenance workflow (#1)"
+    },
+    {
+      "author_email_sha256": "9514e2b88245e65042b6863ccfa18c46e3206110d4857a717fd7a0a374b7d03d",
+      "author_name_declared": "j3f3@gu1l@",
+      "authored_at_declared": "2025-08-04T01:06:47-07:00",
+      "sha": "0843dd5410d77c580203e2d9f8bf04d7c8fdfb6e",
+      "subject": "Initial commit"
+    }
+  ],
+  "file_count_recorded": 4,
+  "file_inventory_truncated_at_25000": false,
+  "files": [
+    {
+      "git_blob_oid": "496523ebf8a2f8179732701a82e626efb6977e8c",
+      "mode": "100644",
+      "path": ".github/workflows/aegis-ip-shield.yml",
+      "sha256": "6b128bd094d276f1cbe06adb086ac00a7489b6131663092ec8ffe077d54ac56b"
+    },
+    {
+      "git_blob_oid": "5b24992c68c69d8e68a2c33a9f7fcf673c03c13f",
+      "mode": "100644",
+      "path": "README.md",
+      "sha256": "043aad2978dbbf1d1c7243f205de4d9d7173ed44600d15a479306214c40e5655"
+    },
+    {
+      "git_blob_oid": "142fe07594bcb1e2a659982f48504ecc156ab0b7",
+      "mode": "100644",
+      "path": "docs/IP_SHIELD_GITHUB.md",
+      "sha256": "1b3d5f528dcc66959b29f71af8f93e991fa31e4f6aa5f92bab5525f745adb4c0"
+    },
+    {
+      "git_blob_oid": "6d259b6574ddd2e833f30672b7172e9711f95134",
+      "mode": "100644",
+      "path": "docs/PETS_AEGIS_IP_SHIELD_COVERAGE_CHARTER.md",
+      "sha256": "d7d5987c5216759b02a9780b16c077d7cacf59c3a8cc09e342fb8830fe82c664"
+    }
+  ],
+  "generated_at_utc_runner_clock": "2026-11-13T20:19:39.019502+00:00",
+  "limits": [
+    "Git author and timestamp fields are declared metadata, not verified identity or trusted time.",
+    "Hashes identify recorded bytes; they do not prove authorship, originality, ownership or infringement.",
+    "The report contains paths and hashes, not source-file contents.",
+    "The runner clock is not a trusted timestamp authority.",
+    "Third-party and joint contributions retain applicable rights and licenses.",
+    "The ledger branch is versioned evidence, not immutable storage.",
+    "Only this repository and triggered refs are covered."
+  ],
+  "manifest_type": "AEGIS_GITHUB_IP_SHIELD_PROVENANCE",
+  "manifest_version": "1.0",
+  "ref": "refs/heads/pets-aegis-ipshield-coverage-20261113",
+  "ref_name": "pets-aegis-ipshield-coverage-20261113",
+  "repository": "irstabyjorge/JefeAguila",
+  "tree": "5ee61684f2b6b66549174c74fcbd3f40c5b40430",
+  "workflow_run_attempt": "1",
+  "workflow_run_id": "43496417492"
+}
